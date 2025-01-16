@@ -1,5 +1,5 @@
 
-export const BASE_URL = 'http://213.210.21.23/api';
+export const BASE_URL = 'http://213.210.21.23:3000/';
 //export const BASE_URL = 'http://localhost:3000';
 
 
